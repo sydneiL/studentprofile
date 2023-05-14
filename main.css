@@ -1,0 +1,47 @@
+header{
+   color:black;
+   text-align: center;
+   font-size: 100px;
+}
+
+body{
+    background-color: aqua;
+    background-blend-mode: normal;
+}
+title{
+   color:black;
+   text-align: center;
+   font-size: 60px;
+}
+h1{
+    color: black;
+    text-align: center;
+    
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+ }
+ h2{
+    color: black;
+    text-align: center;
+ }
+ p{font-family: 'Times New Roman', Times, serif;
+   font-size: 50px;
+  }
+ h3{
+    color: black;
+    text-align: center;
+   }
+ p{
+   font-family: 'Times New Roman', Times, serif;
+   font-size: 50px;
+  }
+ h4{
+    color: black;
+    text-align: center;
+   }
+ p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+ }
